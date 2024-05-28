@@ -1,0 +1,20 @@
+@media (max-width: 430px) {
+    .cabinet-menu-button {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    .cabinet-button {
+        margin: 20px;
+
+    }
+
+    .data-cabinet {
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+
+}

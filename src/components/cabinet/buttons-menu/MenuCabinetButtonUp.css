@@ -1,0 +1,18 @@
+.cabinet-menu-button {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.cabinet-button {
+    margin: 20px;
+
+}
+
+.data-cabinet {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
